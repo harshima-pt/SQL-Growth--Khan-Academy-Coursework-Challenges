@@ -6,6 +6,7 @@ Coursework includes: SQL Basic, More Advanced SQL Queries, Relational Queries in
 
 The following serves as a directory of links to projects and coursework that show my growth in SQL.
 
+[Click here to see all challenges done](https://www.khanacademy.org/profile/kaid_3325580422543373007082304/projects)
 | Repository Link                                              | Description                                                  |Skills learned|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |  ------------------------------------------------------------ | 
 | [challenge14_clothing_alterations.sql](https://www.khanacademy.org/computer-programming/challenge-14-clothing-alterations/6102764230328320) | Altering tables after creation | UPDATE, ALTER, DELETE tables|
